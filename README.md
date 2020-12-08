@@ -1,2 +1,5 @@
-# wxpay_demo_ad
-微信支付的安卓demo
+## 微信支付的安卓demo
+* 本demo包含后台下单的代码 实际集成的时候 只要最后一步就行了
+* demo 包含的自动打包
+* 删除了签名文件 需要自行生成
+* 需要 在constantutil类 自行配置appid的基本参数

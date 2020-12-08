@@ -12,7 +12,7 @@ import smtplib
 
 
 # 配置蒲公英KEY
-API_KEY = "fd395cba0609f2ff8bd48aea9684487f"
+API_KEY = ""
 # 配置蒲公英更新描述信息
 PGYER_DESC = "weh版本更新"
 
